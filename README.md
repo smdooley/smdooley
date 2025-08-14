@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sean Dooley — a seasoned .NET Developer and Certified Umbraco Professional with nearly two decades of hands-on experience building scalable, user-focused web applications. From architecting multilingual CMS platforms to mentoring development teams and delivering high-impact digital solutions, I bring a balance of technical precision and creative problem-solving to every project I lead.
+I'm Sean Dooley — a seasoned web Developer and Certified Umbraco Professional with nearly two decades of hands-on experience building scalable, user-focused web applications. From architecting multilingual CMS platforms to mentoring development teams and delivering high-impact digital solutions, I bring a balance of technical precision and creative problem-solving to every project I lead.
 
 My expertise lies in ASP.NET (MVC, Web API, Core), Umbraco, and front-end technologies — but I'm just as comfortable mentoring teams, planning project architecture, or deploying CI/CD pipelines. I've worked across sectors with clients like STADA, Aldermore Bank, Turtle Wax, Cambridge University Press, Zoflora, and more.
 
